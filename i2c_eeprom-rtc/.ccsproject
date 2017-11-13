@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.1.0"/>
+	<deviceVariant value="MSP430F5419A"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.3.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="lnk_msp430f5419a.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=msp430x54xA_uscib0_i2c_10.c_MSP430F5419A.projectspec.msp430x54xA_uscib0_i2c_10.c,"/>
+	<origin value="C:\ti\MSP430Ware_3_70_00_05\~TIRex\MSPWare\templates\scripts\projects\msp430x54xA_uscib0_i2c_10.c_MSP430F5419A.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
